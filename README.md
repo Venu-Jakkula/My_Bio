@@ -2,7 +2,7 @@
 - 👀 I am a data analyst who enjoys documenting her learning journey.
 - 🌱 I’m currently learning data storytelling.
 - 👨🏻‍💻 I’m looking to collaborate on data analysis projects; volunteer or otherwise.
-- 📫 Let’s connect on LinkedIn
+- 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/ramaka-manasa/)
 - 😄 Pronouns: She/ Her
 - ⚡ Data-Driven Humor: A Fun Fact with a Twist
    - Why did the data analyst bring a ladder to work?
